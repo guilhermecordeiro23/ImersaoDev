@@ -1,2 +1,2 @@
 # imersao-dev
- Repositório para armazenamento de atividades da Imersão Dev da Alura de 2020
+ Repositório de atividades da Imersão Dev da Alura de 2020
